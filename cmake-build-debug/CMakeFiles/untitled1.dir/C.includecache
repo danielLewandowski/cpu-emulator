@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/disk/szkoła/mini_project/vm_emulator/headers/vm_operations.h
+vm_registers.h
+/home/daniel/disk/szkoła/mini_project/vm_emulator/headers/vm_registers.h
+
+/home/daniel/disk/szkoła/mini_project/vm_emulator/headers/vm_registers.h
+
+/home/daniel/disk/szkoła/mini_project/vm_emulator/main.c
+stdio.h
+-
+stdbool.h
+-
+headers/vm_operations.h
+/home/daniel/disk/szkoła/mini_project/vm_emulator/headers/vm_operations.h
+headers/vm_registers.h
+/home/daniel/disk/szkoła/mini_project/vm_emulator/headers/vm_registers.h
+

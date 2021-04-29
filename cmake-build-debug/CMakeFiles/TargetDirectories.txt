@@ -1,0 +1,3 @@
+/home/daniel/disk/szkoła/mini_project/vm_emulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniel/disk/szkoła/mini_project/vm_emulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniel/disk/szkoła/mini_project/vm_emulator/cmake-build-debug/CMakeFiles/untitled1.dir

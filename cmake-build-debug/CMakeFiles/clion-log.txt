@@ -1,0 +1,4 @@
+/snap/clion/149/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/daniel/disk/szkoła/mini_project/vm_emulator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/daniel/disk/szkoła/mini_project/vm_emulator/cmake-build-debug
